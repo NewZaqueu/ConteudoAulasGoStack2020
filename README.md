@@ -47,6 +47,7 @@ Sobre o bloco de ReactJS no curso depois que aprendemos tudo que expliquei ali e
 
 
 **[Desafio 2 - Integrando ReactJS e NodeJS](https://github.com/NewZaqueu/bootCamp-Challenge2-reactJS)**
+
 ![](https://github.com/NewZaqueu/bootCamp-Challenge2-reactJS/raw/master/frontend/GIFs/removendo-repositorios.gif)
 
 ## React-Native
@@ -57,7 +58,8 @@ Uso react-native para android ou para IOS? Tenho que criar um código para cada 
 Isso foi o que aprendi no bloco de react-native e depois fomos CODAR mais um desafio:
 
 **[Desafio 3 - Integrando React-Native e NodeJS](https://github.com/NewZaqueu/bootCamp-Challenge3-react-native)**
-![]()
+
+![](https://github.com/NewZaqueu/bootCamp-Challenge3-react-native/blob/master/curtindo_repositorios.gif)
 
 
 ## Typescript (Em breve)
