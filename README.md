@@ -24,7 +24,6 @@
 </p>
 
 ## NodeJS
-<hr>
 
 Durante esse módulo no GoStack2020 da Rocketseat aprendemos muito sobre o NodeJS. Desde seus príncipios como o uso de NPM & YARN suas diferenças, porq que escolhemos o Yarn, arquitetura event-loop e sua execução em formato call stack, non-blocking I/O, Express JS e o uso de middewares. Durante as aulas codamos basicamente um CRUD usando o node alocado na pasta 'backend'. No final desse bloco sobre node reproduzimos o aprendizado na forma de um desafio.
 
@@ -35,7 +34,6 @@ Durante esse módulo no GoStack2020 da Rocketseat aprendemos muito sobre o NodeJ
 
 
 ## ReactJS
-<hr>
 
 Sem dúvida o ReactJS é uma ferramenta sensacional. Ela é capaz de criar uma estrutura que podemos reaproveitar tanto no ambiente web quanto mobile, a sintaxe é muito semelhante. Além disso todo o backend é compartilhado sem necessidade de criar um backend específico para o mobile ou de adaptar sintaxe. A divisão de responsabilidades é clara entre esses dois: backend e frontend. Não existe regra de negócio no frontend.
 
@@ -52,14 +50,14 @@ Sobre o bloco de ReactJS no curso depois que aprendemos tudo que expliquei ali e
 ![](https://github.com/NewZaqueu/bootCamp-Challenge2-reactJS/raw/master/frontend/GIFs/removendo-repositorios.gif)
 
 ## React-Native
-<hr>
 
 É lindo quando você pela primeira vez vê seu celuar repoduzindo um código que você fez :) . Foi aqui nesse bloco no curso que tive essa sensação. React-native é uma ferramenta do react específica para o ambiente mobile. Embora ela seja específica toda a sintaxe do ReactJS é quase toda aplicada aqui. A maior diferença mesmo é que aqui não usamos elementos HTML, não existe p , a , h1 , h2 , ul , div, main e footer por exemplo. Não existe uma semântica, quase que não existe tag com formatação própria. O mesmo TEXT que você usa pro título é o que você vai usar no parágrafo. Cabe a você formata-los de acordo com a necessidade.
 Uso react-native para android ou para IOS? Tenho que criar um código para cada plataforma? Não meu amigo(a), o react-native não precisa disso. Ele instala um javascript core no seu celular seja android ou IOS que vai ler o bundle e executar o seu código. Simples.
 
 Isso foi o que aprendi no bloco de react-native e depois fomos CODAR mais um desafio:
 
-    Desafio 3 (To codando ele ainda)
+**[Desafio 3 - Integrando React-Native e NodeJS](https://github.com/NewZaqueu/bootCamp-Challenge3-react-native)**
+![]()
 
 
 ## Typescript (Em breve)
