@@ -20,7 +20,8 @@
 <p align="center">
   <a href="#nodejs">NodeJS</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#reactjs">ReactJS</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#react-native">React-Native</a>&nbsp;&nbsp;&nbsp;
+  <a href="#react-native">React-Native</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#typescript">Typescript</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 ## NodeJS
@@ -62,7 +63,7 @@ Isso foi o que aprendi no bloco de react-native e depois fomos CODAR mais um des
 ![](https://github.com/NewZaqueu/bootCamp-Challenge3-react-native/blob/master/curtindo_repositorios.gif)
 
 
-## Typescript (Em breve)
+## Typescript
 
 Ao final desse módulo, após entendermos e aplicarmos os principais conceitos da stack Node e ReactJS fomos então introduzidos ao Typescript. Ele é algo totalmente diferente do que estamos acostumado com vanila JS. Inicialmente ele parece apenas um capricho que compromete a nossa produtividade. Esse pensamento é porém rapidamente descontruído quando entendemos na prática o Typescript. Ele é uma ferramenta (na verdade uma linguagem) capaz de deixar seu código muito fácil de ser interpretado ao olhares de outros programadores. A função principal dela é justamente deixar claro ("tipar") as suas variáveis e parâmetros no código de forma que qualquer um consiga entende-las, especialmente o próprio editor de códigos que nós usamos. Uma vez que o editor de códigos entende essa tipagem, ele consegue ativar o intelisense. Esse permite que o programador acesse o que, qual tipo, que métodos e etc estão dentro dessas variáveis a qualquer momento, e de forma altamente prática.
 
